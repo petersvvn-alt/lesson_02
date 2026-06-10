@@ -27,14 +27,14 @@
 ![alt text](task1.png)
 2. Ознакомился со структурой коммитов
 ![alt text](task2.png)
-3. Откатил неудачный коммит в ветке feauture использовав ``git revert`` с сохранение истории
+3. Откатил неудачный коммит в ветке feature использовав ``git revert`` с сохранение истории
 ![alt text](task3.png)
 4. Объединил коммиты в ветке develop через ``git rebaise -i``
 ![alt text](task4.png)
 ![alt text](task4-1.png)
 5. Создал новую ветку с именем experiment
 ![alt text](task5.png)
-6. Копирую файл decs/README.md из последнего коммита ветки develop. Делаю коомит.
+6. Копирую файл docs/README.md из последнего коммита ветки develop. Делаю коомит.
 ![alt text](task6.png)
 7. Копирую файл calculate.py из ветки develop. Добавляю в индекс и делаю коммит
 ![alt text](task7.png)
