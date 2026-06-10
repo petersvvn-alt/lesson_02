@@ -6,11 +6,12 @@
 1. Настроил файл gitconfig
 
 ![alt text](image1-2.png)
+
 2. Создал свой приватный репозиторий с названием tms-git
 ![alt text](image3.png)
 3. Склонировал репозиторий к себе на компьютер
 ![alt text](image4.png)
-4. Скачал и распоковал архив:
+4. Скачал и распаковал архив:
 - Сделал файлы папки wild_animals отслеживаемыми
 ![alt text](image7.1.png)
 - Сделал коммит и посмотрел хэш коммита
@@ -28,7 +29,7 @@
 ![alt text](task2.png)
 3. Откатил неудачный коммит в ветке feauture использовав ``git revert`` с сохранение истории
 ![alt text](task3.png)
-4. Объединил коммиты в ветке develop через ``git rebaiss -i``
+4. Объединил коммиты в ветке develop через ``git rebaise -i``
 ![alt text](task4.png)
 ![alt text](task4-1.png)
 5. Создал новую ветку с именем experiment
